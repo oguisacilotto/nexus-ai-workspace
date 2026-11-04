@@ -192,3 +192,12 @@ opening to other departments. First week on the free-first routing: every spread
 answered at zero cost; the paid model was reached only by explicit choice.
 
 Author: Guilherme Sacilotto — IT & Intelligence.
+
+## More screens
+
+All screenshots come from the real UI served locally against a fake API; company, people and numbers are fictitious.
+
+| | |
+|---|---|
+| ![Dark mode](assets/nexus-chat-dark.png) | ![Skills editable by admins](assets/nexus-skills-admin.png) |
+| ![Dashboard filtered by one person](assets/nexus-dashboard-person.png) | ![Phone layout](assets/nexus-mobile.png) |
